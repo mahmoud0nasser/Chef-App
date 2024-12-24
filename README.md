@@ -1,4 +1,4 @@
-# chef_app
+# Chef_App
 
 A new Flutter project.
 
